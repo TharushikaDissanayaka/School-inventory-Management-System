@@ -1,0 +1,102 @@
+H:\VB\Inventory System\bin\Debug\Inventory System.exe.config
+H:\VB\Inventory System\bin\Debug\Inventory System.exe
+H:\VB\Inventory System\bin\Debug\Inventory System.pdb
+H:\VB\Inventory System\bin\Debug\Inventory System.xml
+H:\VB\Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+H:\VB\Inventory System\bin\Debug\Google.Protobuf.dll
+H:\VB\Inventory System\bin\Debug\Guna.UI2.dll
+H:\VB\Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+H:\VB\Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\VB\Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+H:\VB\Inventory System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\VB\Inventory System\bin\Debug\MySql.Data.dll
+H:\VB\Inventory System\bin\Debug\System.Buffers.dll
+H:\VB\Inventory System\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\VB\Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\VB\Inventory System\bin\Debug\System.IO.Pipelines.dll
+H:\VB\Inventory System\bin\Debug\System.Memory.dll
+H:\VB\Inventory System\bin\Debug\System.Numerics.Vectors.dll
+H:\VB\Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\VB\Inventory System\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\VB\Inventory System\bin\Debug\ZstdSharp.dll
+H:\VB\Inventory System\bin\Debug\BouncyCastle.Crypto.xml
+H:\VB\Inventory System\bin\Debug\Google.Protobuf.pdb
+H:\VB\Inventory System\bin\Debug\Google.Protobuf.xml
+H:\VB\Inventory System\bin\Debug\K4os.Compression.LZ4.xml
+H:\VB\Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\VB\Inventory System\bin\Debug\K4os.Hash.xxHash.xml
+H:\VB\Inventory System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\VB\Inventory System\bin\Debug\MySql.Data.xml
+H:\VB\Inventory System\bin\Debug\System.Buffers.xml
+H:\VB\Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\VB\Inventory System\bin\Debug\System.IO.Pipelines.xml
+H:\VB\Inventory System\bin\Debug\System.Memory.xml
+H:\VB\Inventory System\bin\Debug\System.Numerics.Vectors.xml
+H:\VB\Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\VB\Inventory System\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\VB\Inventory System\obj\Debug\Inventory System.vbproj.AssemblyReference.cache
+H:\VB\Inventory System\obj\Debug\Inventory System.vbproj.SuggestedBindingRedirects.cache
+H:\VB\Inventory System\obj\Debug\Inventory_System.Form1.resources
+H:\VB\Inventory System\obj\Debug\Inventory_System.Resources.resources
+H:\VB\Inventory System\obj\Debug\Inventory System.vbproj.GenerateResource.cache
+H:\VB\Inventory System\obj\Debug\Inventory System.vbproj.CoreCompileInputs.cache
+H:\VB\Inventory System\obj\Debug\Inventory System.vbproj.CopyComplete
+H:\VB\Inventory System\obj\Debug\Inventory System.exe
+H:\VB\Inventory System\obj\Debug\Inventory System.xml
+H:\VB\Inventory System\obj\Debug\Inventory System.pdb
+H:\VB\Inventory System\obj\Debug\Inventory_System.Login_Form.resources
+H:\VB\Inventory System\obj\Debug\Inventory_System.Home_Page.resources
+H:\VB\Inventory System\obj\Debug\Inventory_System.Item_Details.resources
+H:\VB\Inventory System\obj\Debug\Inventory_System.Category_Details.resources
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Inventory System.exe.config
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Inventory System.exe
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Inventory System.pdb
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Inventory System.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Google.Protobuf.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Guna.UI2.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\MySql.Data.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Buffers.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.IO.Pipelines.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Memory.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Numerics.Vectors.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\ZstdSharp.dll
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\BouncyCastle.Crypto.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Google.Protobuf.pdb
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Google.Protobuf.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\K4os.Compression.LZ4.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\K4os.Hash.xxHash.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\MySql.Data.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Buffers.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.IO.Pipelines.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Memory.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Numerics.Vectors.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\VB\Inventory System 08.10\Inventory System\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.vbproj.AssemblyReference.cache
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.vbproj.SuggestedBindingRedirects.cache
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Category_Details.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Form1.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Home_Page.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Item_Details.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Login_Form.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Resources.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.vbproj.GenerateResource.cache
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.vbproj.CoreCompileInputs.cache
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.vbproj.CopyComplete
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.exe
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.xml
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory System.pdb
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Item_Lend___Return.resources
+H:\VB\Inventory System 08.10\Inventory System\obj\Debug\Inventory_System.Remove_Items.resources
